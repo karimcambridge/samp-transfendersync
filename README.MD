@@ -1,4 +1,4 @@
-#SA-MP Transfender Sync
+# SA-MP Transfender Sync
 
 Allows passengers to be synced correctly when their driver enters a TransFender.
 
